@@ -5,21 +5,33 @@
       <link>https://supabase.com/blog</link>
       <description>Latest Postgres news from Mark Burggraf at Supabase</description>
       <language>en</language>
+<<<<<<< HEAD
       <lastBuildDate>Thu, 24 Nov 2022 00:00:00 GMT</lastBuildDate>
+=======
+      <lastBuildDate>Wed, 23 Nov 2022 22:00:00 GMT</lastBuildDate>
+>>>>>>> origin/master
       <atom:link href="https://supabase.com/planetpg-burggraf-rss.xml" rel="self" type="application/rss+xml"/>
       <item>
   <guid>https://supabase.com/blog/sql-or-nosql-both-with-postgresql</guid>
   <title>SQL or NoSQL? Why not use both (with PostgreSQL)?</title>
   <link>https://supabase.com/blog/sql-or-nosql-both-with-postgresql</link>
   <description>How to turn Postgres into an easy-to-use NoSQL database that retains all the power of SQL</description>
+<<<<<<< HEAD
   <pubDate>Thu, 24 Nov 2022 00:00:00 GMT</pubDate>
+=======
+  <pubDate>Wed, 23 Nov 2022 22:00:00 GMT</pubDate>
+>>>>>>> origin/master
 </item>
 <item>
   <guid>https://supabase.com/blog/postgres-wasm</guid>
   <title>Postgres WASM by Snaplet and Supabase</title>
   <link>https://supabase.com/blog/postgres-wasm</link>
   <description>We&apos;re open sourcing postgres-wasm, a PostgresQL server that runs inside a browser, with our friends at Snaplet.</description>
+<<<<<<< HEAD
   <pubDate>Mon, 03 Oct 2022 00:00:00 GMT</pubDate>
+=======
+  <pubDate>Sun, 02 Oct 2022 21:00:00 GMT</pubDate>
+>>>>>>> origin/master
 </item>
 
     </channel>
